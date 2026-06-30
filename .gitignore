@@ -1,0 +1,15 @@
+ Sensitive
+    .env
+    *.key
+    secrets/
+    deployment.json
+
+    Build
+    node_modules/
+    dist/
+    artifacts/
+    cache/
+
+    OS
+    .DS_Store
+    Thumbs.db
